@@ -1,7 +1,8 @@
 //******************************************************************
-//Program Name: Program Assignement # 10
+//Program Name: Singly Linked List 
 //Author: Veronica Pichay
 //IDE Used: Repl.it
+//Created : ‎Tuesday, ‎July ‎21, ‎2020,
 //Program description: Creates linked list with fx to insert or delete and print, search and destroy the linked list
 //*****************************************************************
 #include <iostream>
